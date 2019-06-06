@@ -1,2 +1,3 @@
 name: 虫洞
 markdown: kramdown
+permalink: /blog/:title
